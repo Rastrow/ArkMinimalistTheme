@@ -1,5 +1,5 @@
 {
-  "name": "@rastrow/desktop-wallet-theme-template",
+  "name": "@marcow/desktop-wallet-theme",
   "version": "0.0.1",
   "description": "Spacial Ark Wallet Template",
   "main": "src/index.js",
