@@ -1,13 +1,13 @@
 {
-  "name": "@arkecosystem/desktop-wallet-theme-template",
+  "name": "@rastrow/desktop-wallet-theme-template",
   "version": "0.0.1",
-  "description": "Desktop Wallet Theme Template",
+  "description": "Spacial Ark Wallet Template",
   "main": "src/index.js",
-  "author": "Author Name",
+  "author": "Rastrow",
   "license": "MIT",
   "desktop-wallet": {
-    "title": "Theme Template",
-    "logo": "https://raw.githubusercontent.com/ark-ecosystem-desktop-plugins/theme-template/master/logo.png",
+    "title": "Spacial Noa Template",
+    "logo": "https://thinker.digital/wp-content/uploads/2020/01/140xpng.png",
     "categories": [
       "theme"
     ],
@@ -24,14 +24,14 @@
     "plugin"
   ],
   "contributors": [
-    "Author Name"
+    "Rastrow"
   ],
   "bugs": {
-    "url": "https://github.com/ark-ecosystem-desktop-plugins/theme-template/issues"
+    "url": "https://github.com/rastrow/theme-template/issues"
   },
-  "homepage": "https://github.com/ark-ecosystem-desktop-plugins/theme-template#readme",
+  "homepage": "https://github.com/rastrow/theme-template",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ark-ecosystem-desktop-plugins/theme-template.git"
+    "url": "git+https://github.com/rastrow/theme-template.git"
   }
 }
